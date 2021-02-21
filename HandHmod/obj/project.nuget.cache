@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJS7xVWYNy/Guf+SqAKyOy4q6qXoSv23pYM86jpimF4hHapwBEZ9WKElQRCyP5MVT5LTzajxx0+j6gescunGqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayde\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\HandHmod\\HandHmod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayde\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

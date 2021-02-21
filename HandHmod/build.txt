@@ -1,0 +1,4 @@
+displayName = Heaven & Hellfire
+author = Project Elements
+version = 0.0.1.1
+buildIgnore = *.csproj, *.vs

@@ -1,0 +1,15 @@
+The signal rings from heaven and hell. The above and below, once great equals, reduced to shadows of themselves. Heaven's wrath, and Hell's fire continue to ravage this land. There's only one hero who can quell these forces. You
+
+adds in 2 new ores, 2 weapons, 1 wing set (currently a placeholder sprite, will be changed very soon), 2 bars, an armor set, a pickaxe, and a boss with summon and treasure bag, as well as ore generation
+
+more content to be added very very soon
+
+Mod creator: Project Elements
+
+sprite artist: Project Elements
+
+programmer: Project Elements
+
+discord homepage under construction
+
+Heaven and Hellfire alpha 0.0.1
